@@ -2956,6 +2956,7 @@ var white_domains = {"am":{
 "dinghuaren":1,
 "dingsite":1,
 "dingxinhui":1,
+"dingtalk":1,
 "dingyx":1,
 "dionly":1,
 "diqiuw":1,
