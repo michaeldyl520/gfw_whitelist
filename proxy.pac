@@ -9,7 +9,11 @@ var ip_proxy = nowall_proxy;
  * https://github.com/breakwa11/gfw_whitelist
  */
 
-var white_domains = {"am":{
+var white_domains = {
+    "pw":{
+    "kiwifree":1
+},
+"am":{
 "126":1,
 "51":1
 },"biz":{
@@ -6323,6 +6327,7 @@ var white_domains = {"am":{
 "siilu":1,
 "sijihf":1,
 "siliaojixie":1,
+"silksoftware":1,
 "simwe":1,
 "sina":1,
 "sinaapp":1,
@@ -6817,6 +6822,7 @@ var white_domains = {"am":{
 "tranbbs":1,
 "travelsky":1,
 "tremormedia":1,
+"tricoastaldesign":1,
 "trip8080":1,
 "tripbaba":1,
 "trjcn":1,
