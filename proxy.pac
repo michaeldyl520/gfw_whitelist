@@ -3633,6 +3633,7 @@ var white_domains = {
 "gowulong":1,
 "gqren":1,
 "gqsoso":1,
+"gravatar":1,
 "grchina":1,
 "greatwuyi":1,
 "greentimes":1,
