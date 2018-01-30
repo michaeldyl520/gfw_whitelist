@@ -10,10 +10,11 @@ var ip_proxy = nowall_proxy;
  */
 
 var white_domains = {
-    "pw":{
-    "kiwifree":1
-},
-"am":{
+"pw":{
+"kiwifree":1
+},"io":{
+"daocloud":1,
+},"am":{
 "126":1,
 "51":1
 },"biz":{
