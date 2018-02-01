@@ -6824,7 +6824,6 @@ var white_domains = {
 "tranbbs":1,
 "travelsky":1,
 "tremormedia":1,
-"tricoastaldesign":1,
 "trip8080":1,
 "tripbaba":1,
 "trjcn":1,
