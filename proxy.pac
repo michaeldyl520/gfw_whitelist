@@ -2261,6 +2261,7 @@ var white_domains = {
 "chengan5":1,
 "chengdechina":1,
 "chengdujjw":1,
+"cdxuhe":1,
 "chengguw":1,
 "chengkao365":1,
 "chengshiw":1,
