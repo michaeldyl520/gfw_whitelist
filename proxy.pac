@@ -10,10 +10,11 @@ var ip_proxy = nowall_proxy;
  */
 
 var white_domains = {
-    "pw":{
-    "kiwifree":1
-},
-"am":{
+"pw":{
+"kiwifree":1
+},"io":{
+"daocloud":1,
+},"am":{
 "126":1,
 "51":1
 },"biz":{
@@ -1801,6 +1802,7 @@ var white_domains = {
 "baicmotor":1,
 "baidajob":1,
 "baidu":1,
+"baidupcs":1,
 "baidustatic":1,
 "baiduyy":1,
 "baietu":1,
@@ -2259,6 +2261,7 @@ var white_domains = {
 "chengan5":1,
 "chengdechina":1,
 "chengdujjw":1,
+"cdxuhe":1,
 "chengguw":1,
 "chengkao365":1,
 "chengshiw":1,
@@ -2497,6 +2500,7 @@ var white_domains = {
 "cljmmm123":1,
 "clotheshr":1,
 "clothr":1,
+"cloudflare":1,
 "clssn":1,
 "cmbchina":1,
 "cmejob":1,
@@ -3539,6 +3543,7 @@ var white_domains = {
 "gdwest":1,
 "gdzj8":1,
 "geely":1,
+"geetest":1,
 "geihui":1,
 "gemdale":1,
 "geo-show":1,
@@ -4837,6 +4842,7 @@ var white_domains = {
 "kkeye":1,
 "kkk5":1,
 "kkkedu":1,
+"kmcits060":1,
 "kmguolv":1,
 "kms88":1,
 "kmxsedu":1,
@@ -6824,7 +6830,6 @@ var white_domains = {
 "tranbbs":1,
 "travelsky":1,
 "tremormedia":1,
-"tricoastaldesign":1,
 "trip8080":1,
 "tripbaba":1,
 "trjcn":1,
@@ -6940,6 +6945,7 @@ var white_domains = {
 "ule":1,
 "ulinix":1,
 "ulunix":1,
+"umeng":1,
 "umiwi":1,
 "un188":1,
 "unibao":1,
@@ -7357,6 +7363,7 @@ var white_domains = {
 "xiaoshuo766":1,
 "xiaoxiangrc":1,
 "xiaoyeren":1,
+"xiaonanyang":1,
 "xiaoyuanfeng":1,
 "xiaozhi123":1,
 "xiaozhu":1,
